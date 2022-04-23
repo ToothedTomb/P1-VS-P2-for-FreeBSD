@@ -1,4 +1,4 @@
 # P1-VS-P2-for-FreeBSD
-![Screenshot from 2022-04-17 21-23-46](https://user-images.githubusercontent.com/52569279/163730936-7a8a8575-e64c-4ed0-80f7-f94b95b2c502.png)
+![Screenshot from 2022-04-23 17-17-36](https://user-images.githubusercontent.com/52569279/164914483-56a82c10-adaf-4f1c-b2c5-e8e62bca7675.png)
 
 Install Ubuntu font in the terminal: pkg install x11-fonts/ubuntu-font 
